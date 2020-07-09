@@ -3,7 +3,7 @@
 # Hello World :wave:
 I am a Bangalore based Software Engineer and visual designer, currently working @localeai as a UX Engineer building web based GeoSpatial analytics and visualization tools :sparkles:. I love designing and building for the web, you can read more about what I do and things I love over my website [haxzie.com](https://haxzie.com). Apart from Locale.ai I work on few of other projects including [Streamon](https://getstreamon.com) and [Chaai Pages](https://chaai.me)
 
-### You can find my stuffs here :leaves: 
+### You can find my stuff here :leaves: 
 - My Personal Website / Blog :yum: [haxzie.com](https://haxzie.com)
 - My old Blog :star: [zocada](https://zocada.com)
 - Twitter [twitte.com/haxzie_](https://twitter.com/haxzie_)
