@@ -1,4 +1,4 @@
-<img src="https://cdn.lowgif.com/full/6eae7fd7bcce2c5a-snape-gif-on-tumblr.gif" width="100%"/>
+<img src="https://media2.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" width="100%"/>
 
 # Hello World :wave:
 I am a Bangalore based Software Engineer and visual designer, currently working @localeai as a UX Engineer building web based GeoSpatial analytics and visualization tools :sparkles:. I love designing and building for the web, you can read more about what I do and things I love over my website [haxzie.com](https://haxzie.com). Apart from Locale.ai I work on few of other projects including [Streamon](https://getstreamon.com) and [Chaai Pages](https://chaai.me)
