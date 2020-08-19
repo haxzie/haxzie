@@ -10,6 +10,7 @@ I am a Bangalore based Software Engineer and visual designer, currently working 
 
 ### What I am building right now :wrench: 
 - [Locale.ai](https://locale.ai)
+- [Snipp.in](https://snipp.in)
 - [Streamon](https://getstreamon.com) 
 - [Chaai Pages](https://chaai.me)
 
