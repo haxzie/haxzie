@@ -13,5 +13,3 @@ I am a Bangalore based Software Engineer and visual designer, currently working 
 - [Snipp.in](https://snipp.in)
 - [Streamon](https://getstreamon.com) 
 - [Chaai Pages](https://chaai.me)
-
-<img src="https://www.storybench.org/wp-content/uploads/2015/05/NYAN_CAT.gif" height="100px"/>
