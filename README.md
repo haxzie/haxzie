@@ -1,5 +1,5 @@
 # Hey, I'm Musthaq Ahamad.
-> Find me anywhere as [Haxzie](https://haxzie.com)
+> _Find me anywhere as [Haxzie](https://haxzie.com)_
 
 
 I am a Bangalore based Software Engineer and visual designer, currently working [@localeai](https://github.com/localeai) as a UX Engineer designing and building web based GeoSpatial analytics and visualization tools :sparkles:. I love designing and building for the web, you can read more about what I do and things I love over my website [haxzie.com](https://haxzie.com). Apart from Locale.ai I work on few of other projects including [Streamon](https://getstreamon.com) and [Chaai Pages](https://chaai.me)
