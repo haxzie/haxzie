@@ -6,10 +6,10 @@ I am a Bangalore based Software Engineer and visual designer, currently working 
 
 ### You can find my stuff here :leaves: 
 - My Personal Website / Blog :yum: [haxzie.com](https://haxzie.com)
-- My old Blog :star: [zocada](https://zocada.com)
 - Twitter [twitter.com/haxzie_](https://twitter.com/haxzie_)
-- Dribbble account [@haxzie](https://dribbble.com/haxzie)
-- Dev account [dev.to/haxzie](https://dev.to/haxzie)
+- Dribbble [@haxzie](https://dribbble.com/haxzie)
+- Dev [dev.to/haxzie](https://dev.to/haxzie)
+- ProductHunt [producthunt.com/@haxzie](https://producthunt.com/@haxzie)
 
 ### What I am building right now :wrench: 
 - [Locale.ai](https://locale.ai)
