@@ -2,7 +2,7 @@
 > _Find me anywhere as [Haxzie](https://haxzie.com)_
 
 
-I am a Bangalore based Product Designer and Engineer, currently working [@localeai](https://github.com/localeai) as Lead Product Engineer, designing and building advanced GeoSpatial analytics and visualization tools, AI agents and Operations Workflows :sparkles:. I love designing and building for the web, you can read more about what I do and things I love over my website [haxzie.com](https://haxzie.com).
+I am a Bangalore based Product Designer and Engineer, currently working at realfast.ai as Lead Frontend Engineer, designing and building AI Agents and workflows to automate building AI agents. I love designing and building for the web, you can read more about what I do and things I love over my website [haxzie.com](https://haxzie.com).
 
 ### You can find my stuff here :leaves: 
 - My Personal Website / Blog :yum: [haxzie.com](https://haxzie.com)
